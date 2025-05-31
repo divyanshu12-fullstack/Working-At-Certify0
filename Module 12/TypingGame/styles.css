@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background: #f4f4f4;
+    margin-top: 50px;
+}
+
+.game-container {
+    background: #fff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+#word-display {
+    font-size: 2em;
+    color: #333;
+}
+
+#input {
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+    margin: 20px 0;
+}
+
+#score {
+    font-weight: bold;
+    font-size: 1.2em;
+}

@@ -1,0 +1,135 @@
+Lecture 1 
+IDE, Hello World
+Var, let, const
+data type   -> primitive and non primitve
+window.prompt()
+Type conversion
+user Info Form 
+
+
+Lecture 2
+Operators - Arithmetic, comparison, logical and ternary, Nullish coalescing 
+Conditionals - if  else if  else
+Project: Simple Age Eligibility Checker
+
+
+Lecture 3
+Loops -> iteration for, while, do while, nested Loops
+pattern printing
+Control flow statements -> break, continue, return
+Infinite Loop
+Interview problems -> FizzBuzz and ReverseNumber
+
+Lecture 4
+functions, arsrow function (hoisted and not hoisted)
+functions expression
+return, special arrow function implementation
+try and catch block
+Simple calculator 
+
+Lecture 5
+Stings in javascript, template literals
+Common useful string methods
+
+Problems ->  Palindrome(ex: madam, racecar),  
+Check that reads the same forward and backward.
+Masking Email Address -> Given an email address as a string, write a function that
+masks the username portion of the email while keeping the domain intact. 
+The function should replace all but the first and last character of the username with asterisks (*).
+If the username is very short (2 characters or fewer), return the email as is.
+"john.doe@example.com" Example Output: "j******e@example.com" Example Input: "ab@example.com" Example Output: "ab@example.com"
+
+Lectur 6
+
+Arrays DeepDive - Array Methods
+Push, pop, splice, concat, sort
+Spread operator, destructuring
+Project: To-Do List Manager
+
+Lecture 7
+JavaScript Objects- 
+Properties, this, computed keys- 
+for-in Loop, shallow vs deep copy- 
+Project: Student Report Card Generator
+
+Lecture 8
+Higher-Order Functions- map, filter, reduce
+Argument object, rest parameter- 
+Project: Expense Tracker 
+Task: Sum of Even/Odd in Array
+
+Lectur 9
+scope, Hoisting & Closure
+Global/local/block scope
+Closure, call stack, hoisting- 
+Interview Problem: Custom Counter (Closure).
+
+Lecture 10 - Question Solving
+
+1)Write a function in JavaScript that removes all vowels (a, e, i, o, u) from a given string. 
+The function should return a new string containing only the consonants.
+The function should be case-insensitive (i.e., remove both uppercase and lowercase vowels).
+
+🔹Example Input: "Hello World"
+🔹Expected Output: "Hll Wrld"
+
+2)Create a JavaScript function that takes a string and returns a new string containing only the unique characters from the input — 
+in the order they first appear.
+Duplicate characters should be removed.
+
+🔹Example Input: "programming"
+🔹Expected Output: "progamin"
+
+3)Implement a custom function miniArrayFrom() that mimics the behavior of JavaScript’s built-in Array.from() method. 
+The function should convert array-like or iterable objects into an actual array.
+
+4)Write a JavaScript program that takes an array of user objects and formats each user's data into a well-structured console output.    
+{
+    name: "john doe",
+    age: 28,
+    gender: "male",
+    email: "john@example.com",
+    city: "Boston",
+    joined: "2022-06-01"
+  }
+
+  User #1
+==============================
+Name       : Mr. John Doe
+Age        : 28
+Email      : john@example.com
+City       : Boston
+Joined On  : 01-06-2022
+
+Module 11
+- What is DOM?
+- DOM Manipulation, text Manipulation
+- Project 1 - Form/xData Input
+- Project 2 - Theme Switcher
+
+Module 12
+- Event Handling        
+- Bubbling, capturing and delegation 
+- Project 1- Typing Game
+- Project 2- Build a  Button Debouncer 
+
+Module 13
+- RegEx 
+- Form data Handling
+Username: john123
+Email: john.doe@example.com
+Password: StrongPass1
+Confirm Password: StrongPass1
+
+Module 14
+- Local Storage
+- CRUD Operations  -> Create Read Update Delete 
+- JSON overview
+- Creating deep copy with json
+Sticky Notes App
+
+Module 15
+- Flatten List
+[1, [2, [3, 4], 5], 6] -> [1,2,3,4,5,6]
+- List Rendering from Objects
+- Wish List Page
