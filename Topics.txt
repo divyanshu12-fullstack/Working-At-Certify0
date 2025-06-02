@@ -139,3 +139,44 @@ Module 16
 - Execution Context
 - Async and Defer
 - Event Loop
+
+Module 17
+- Classes in JS 
+- Prototype and prototypal inhertiance
+- Bank Account Class
+- call(), apply() and bind()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module 20
+- Capstone Project: Flash E-Commerce Website
+Bonus Interview Tasks:
+- Count frequency of elements
+Given an array of elements, count the frequency of each unique element.
+- Arrange words by length
+Given an array of words, sort them by their length (from shortest to longest).
+- Reverse string words in place
+Given a string, reverse the order of words, but do not reverse the characters within each word.
