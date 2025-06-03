@@ -147,9 +147,11 @@ Module 17
 - call(), apply() and bind()
 
 
-
-
-
+Module 18
+- Polyfills
+- implementing polyfills for reduce, map and  filter
+- Throttling Function and it's implementation
+- Utility Libraries
 
 
 
