@@ -1,39 +1,39 @@
 Lecture 1 
-IDE, Hello World
-Var, let, const
-data type   -> primitive and non primitve
-window.prompt()
-Type conversion
-user Info Form 
+- IDE, Hello World
+- Var, let, const
+- data type   -> primitive and non primitve
+- window.prompt()
+- Type conversion
+- user Info Form 
 
 
 Lecture 2
-Operators - Arithmetic, comparison, logical and ternary, Nullish coalescing 
-Conditionals - if  else if  else
-Project: Simple Age Eligibility Checker
+- Operators - Arithmetic, comparison, logical and ternary, Nullish coalescing 
+- Conditionals - if  else if  else
+- Project: Simple Age Eligibility Checker
 
 
 Lecture 3
-Loops -> iteration for, while, do while, nested Loops
-pattern printing
-Control flow statements -> break, continue, return
-Infinite Loop
-Interview problems -> FizzBuzz and ReverseNumber
+- Loops -> iteration for, while, do while, nested Loops
+- - pattern printing
+- Control flow statements -> break, continue, return
+- Infinite Loop
+- Interview problems -> FizzBuzz and ReverseNumber
 
 Lecture 4
-functions, arsrow function (hoisted and not hoisted)
-functions expression
-return, special arrow function implementation
-try and catch block
-Simple calculator 
+- functions, arsrow function (hoisted and not hoisted)
+- functions expression
+- return, special arrow function implementation
+- try and catch block
+- Simple calculator 
 
 Lecture 5
-Stings in javascript, template literals
-Common useful string methods
+- Stings in javascript, template literals
+- Common useful string methods
 
-Problems ->  Palindrome(ex: madam, racecar),  
+- Problems ->  Palindrome(ex: madam, racecar),  
 Check that reads the same forward and backward.
-Masking Email Address -> Given an email address as a string, write a function that
+- Masking Email Address -> Given an email address as a string, write a function that
 masks the username portion of the email while keeping the domain intact. 
 The function should replace all but the first and last character of the username with asterisks (*).
 If the username is very short (2 characters or fewer), return the email as is.
@@ -41,28 +41,28 @@ If the username is very short (2 characters or fewer), return the email as is.
 
 Lectur 6
 
-Arrays DeepDive - Array Methods
-Push, pop, splice, concat, sort
-Spread operator, destructuring
-Project: To-Do List Manager
+- Arrays DeepDive - Array Methods
+- Push, pop, splice, concat, sort
+- Spread operator, destructuring
+- Project: To-Do List Manager
 
 Lecture 7
-JavaScript Objects- 
-Properties, this, computed keys- 
-for-in Loop, shallow vs deep copy- 
-Project: Student Report Card Generator
+- JavaScript Objects- 
+- Properties, this, computed keys- 
+- for-in Loop, shallow vs deep copy- 
+- Project: Student Report Card Generator
 
 Lecture 8
-Higher-Order Functions- map, filter, reduce
-Argument object, rest parameter- 
-Project: Expense Tracker 
-Task: Sum of Even/Odd in Array
+- Higher-Order Functions- map, filter, reduce
+- Argument object, rest parameter- 
+- Project: Expense Tracker 
+- Task: Sum of Even/Odd in Array
 
 Lectur 9
-scope, Hoisting & Closure
-Global/local/block scope
-Closure, call stack, hoisting- 
-Interview Problem: Custom Counter (Closure).
+- scope, Hoisting & Closure
+- Global/local/block scope
+- Closure, call stack, hoisting- 
+- Interview Problem: Custom Counter (Closure).
 
 Lecture 10 - Question Solving
 
@@ -153,25 +153,10 @@ Module 18
 - Throttling Function and it's implementation
 - Utility Libraries
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Module 19 
+Advanced UI Problems
+- Modal, Dropdown Interactive Dropdown App
+- Debounce, Searching with Debounce
 
 Module 20
 - Capstone Project: Flash E-Commerce Website
